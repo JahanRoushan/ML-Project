@@ -17,7 +17,7 @@ The project derives several essential metrics for each vessel:
 3. **Average Speed While Moving:** Analyzing the ship’s speed when it is in motion.
 4. **Course & Heading Analysis:** Understanding the directional patterns of vessel movement.
 
-## Implementation Details
+## Implementation Steps 
 The project is implemented using **Python** and includes the following steps:
 
 ### 1. Data Preprocessing
